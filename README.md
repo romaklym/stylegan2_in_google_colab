@@ -1,1 +1,1 @@
-# stylegan2_in_google_colab
+# StyleGan2-ADA-PyTorch
